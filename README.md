@@ -1,4 +1,4 @@
-# Awsome-Video-Summarization
+# Awesome-Video-Summarization
 video summarization
 
 - [Query-Focused Video Summarization:
